@@ -9,7 +9,7 @@ var logger = require('morgan');
 
 var ordersRouter = require('./routes/orders');
 
-
+var frontRouter = require('./routes/frontPage');
 
 var loginCRouter = require('./routes/loginC');
 
